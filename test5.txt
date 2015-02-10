@@ -1,3 +1,0 @@
-hi here is my first edit on branch [orange]
-hi here is my first edit on branch [mango]
-hi,here is my seccond edit on branch [mango]
